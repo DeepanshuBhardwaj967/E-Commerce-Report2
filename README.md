@@ -1,4 +1,4 @@
-# E - Commerce Report2
+# Hypermart Report
 
 
 The Power BI dashboard for the eCommerce dataset presents a comprehensive overview of crucial metrics and insights. Through intuitive visualizations, it captures essential highlights such as sales performance trends, customer behavior analysis, inventory management, and marketing effectiveness. The dashboard offers real-time updates, enabling stakeholders to make informed decisions promptly. Key highlights include revenue breakdown by product category, sales growth over time, customer segmentation based on purchasing habits, and inventory turnover rates. Additionally, it provides actionable insights into optimizing promotional strategies, identifying top-selling products, and forecasting demand to enhance overall business performance. With its user-friendly interface and interactive features, the Power BI dashboard empowers eCommerce businesses to navigate complexities efficiently and drive sustainable growth.
